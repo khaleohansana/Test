@@ -9,3 +9,5 @@ a change while changes are staged
  changing code in compare
 
  Doing another quick change test
+
+ Second change
