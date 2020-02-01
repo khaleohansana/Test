@@ -10,4 +10,4 @@ a change while changes are staged
 
  Doing another quick change test
 
- Second change
+ Second changed
