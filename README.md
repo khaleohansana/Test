@@ -11,3 +11,5 @@ a change while changes are staged
  Doing another quick change test
 
  Second changed
+
+ Third change
