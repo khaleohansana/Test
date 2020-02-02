@@ -13,3 +13,5 @@ a change while changes are staged
  Second changed
 
  Third change
+
+ Fourth change
