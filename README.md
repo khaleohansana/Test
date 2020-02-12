@@ -18,4 +18,4 @@ a change while changes are staged
 
  Fifth to the brain
 
- rideing on the sixth listening to the rift
+ rideing in the sixth listening to the rift
